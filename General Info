@@ -1,13 +1,7 @@
-<html>
+
+<!DOCTYPE html>
+<html lang="en">
 <head>
-<title>Page Title</title>
-</head>
-<body>
-
-<h1>Questions and Answers</h1>
-<H2>Goals of Drama Production<H2>
-<p>body Paragraph<p>
-
-</body>
-</html>
-
+<title>General Info</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
